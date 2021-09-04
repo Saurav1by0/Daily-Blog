@@ -16,7 +16,7 @@ steps to install :
  # Screenshot #
 
 
-  ![Alt text](Capture.PNG?raw=true "Optional Title")
+  ![Alt text](Capture.png?raw=true "Optional Title")
   
   
 - [GitHub](https://github.com/Saurav1by0 "Saurav Gaur")
